@@ -5,10 +5,7 @@ https://www.swank.com/
 Downloads highest quality encrypted video/audio/subtitles from Swank streaming service.
 Bypasses "Error 503 Response object too large" in varnish by chunking requests.
 
-Requirements:
-Python
-ffmpeg
-mp4decode
+Requirements: python, ffmpeg, mp4decrypt
 
 You must provide a MPD manifest file and valid URL path.
 This does not circumvent copyright, you must obtain your own decryption keys.
